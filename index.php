@@ -235,12 +235,12 @@ Currently Michael King Global is currently only known in few cities in Nigeria b
 								OUR MODELING PHOTOS
 							</h1>
 							
-							<p style="color:white;">
+							<!--<p style="color:white;">
 								The Aliko Dangote Foundation (ADF) is the Philanthropic endeavor of Aliko Dangote. The main objective of the Foundation is to reduce the number of lives lost to malnutrition and disease. 
 							</p>
 							<p style="color:white;">
 								Combating Severe Acute Malnutrition (SAM) in children, is at the core of our programming. Improving the outcome of children’s lives, forms the basis for the work the Foundation is engaged in, using our investments in health, education, and economic empowerment to help lift people out of poverty.
-							</p>
+							</p>-->
 							
 						</div>
 					</div>

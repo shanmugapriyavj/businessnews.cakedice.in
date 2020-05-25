@@ -45,7 +45,8 @@
 								<!--<span>We are here to listen from you deliver exellence</span>-->
 							</p>
 							<p>
-								Is to take young business mind to a new dimension across Africa and same to the world
+								Michael King Global started as a house hold name
+                                And is set to break records around the world 
 							</p>
 							
 						</div>

@@ -40,14 +40,23 @@
 						</div>
 						<div class="col-lg-6 home-about-right">
 							<!--<h6 class="text-uppercase">Brand new app to blow your mind</h6>-->
-							<h1>Our Mission and Vision</h1>
+							<h1>Our Business</h1>
 							<p>
 								<!--<span>We are here to listen from you deliver exellence</span>-->
 							</p>
 							<p>
-								Is to take young business mind to a new dimension across Africa and same to the world
+								Michael King Global (Kings Arena) is an entrepreneurship system and is a multi business platform that helps in fashion modeling advertisements,online trade,comedy advertisements,animal and cattle rearing,farming, sales of goods and rendering of services.
+								We also help in youth empowerment system e.t.c
 							</p>
-							
+							<p>
+							   Michael King Global is a fast growing business and house hold company and is set to change the future of the marketing and business world......
+							</p>
+							<p>
+							   Currently Michael King Global is currently only known in few cities in Nigeria but is set to make wave all over the universe
+							</p>
+							<p>
+							   Our major interest is entrepreneurship programs,fashion modeling,advertisements,cattle rearing, laundry services and many more.
+							</p>
 						</div>
 					</div>
 				</div>	
@@ -71,3 +80,4 @@
 
 
 
+ 
