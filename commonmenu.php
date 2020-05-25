@@ -21,7 +21,7 @@
 			    		</div>
 			    		<div class="col-lg-4 menu-top-middle justify-content-center d-flex">
 							<a href="index.php" style="color: red; font-weight: 900;">
-								<img class="img-fluid logo" src="img/business.png" alt="">
+								<img class="img-fluid logo" src="img/business.png" alt="" />
 							</a>			    			
 			    		</div>
 			    		<div class="col-lg-4 col-sm-4 menu-top-right">
